@@ -1,0 +1,25 @@
+.hero{
+    color: blueviolet;
+    font-size: 2em;
+    background-color: white;
+}
+.vigilante{
+    color: red;
+    font-size: 1.5em;
+    background-color:black;
+}
+#title{
+    color:rgb(15, 15, 15);
+    font-size: 1em;
+    background-color: rgb(214, 195, 195);
+}
+#roster{
+    color: burlywood;
+    font-size: 1em;
+    background-color: rgb(238, 155, 155);
+}
+#bats{
+    color: aqua;
+    font-size: 2em;
+    background-color: rgb(224, 169, 169);
+}
